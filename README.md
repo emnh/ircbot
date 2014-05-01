@@ -1,0 +1,4 @@
+ircbot
+======
+
+Heroku IRC bot
